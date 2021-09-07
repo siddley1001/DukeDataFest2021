@@ -19,8 +19,8 @@ Survey Data was sponsored by the *Rocky Mountain Poison and Drug Safety Center* 
 
 ### Outline the 4D Process:
   1. **Define** the Problem(s)
-    - *Inference*: Can we use the accompanying survey data to find which survey questions or features significantly predict the portion of the population that abuses opioids?
-    - *Prediction*: To what degree of accuracy can we predict whether an individual will abuse opioids 
+      - *Inference*: Can we use the accompanying survey data to find which survey questions or features significantly predict the portion of the population that abuses opioids?
+      - *Prediction*: To what degree of accuracy can we predict whether an individual will abuse opioids 
   2. **Discover** Inights and Trends
     - Understand the Numerical and Categorical data:
         1. **Categorical**
